@@ -1,4 +1,4 @@
-# pse-gestao-escolar
+# AEP 2 Semestre
 Sistema de apoio ao gerenciamento das ações do Programa Saúde na Escola (PSE)
 
 Identificação dos estudantes:
